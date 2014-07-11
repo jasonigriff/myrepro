@@ -1,4 +1,8 @@
 this is a cllllllllllllllllone one 
 some crap
+<<<<<<< HEAD
 diff crap unrelated
 
+=======
+conflict change
+>>>>>>> 867b764a6a32ed8ce691dbea1a0ba4a3e9a5f6f3
